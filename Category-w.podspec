@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'Category'
+  s.name             = 'Category-w'
   s.version          = '0.1.0'
   s.summary          = 'A short description of Category.'
   s.description      = <<-DESC
@@ -15,10 +15,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = "Category","Category/**/*.{h,m}"
+  s.source_files = "Category-w","Category-w/**/*.{h,m}"
   
   # s.resource_bundles = {
-  #   'Category' => ['Category/Assets/*.png']
+  #   'Category-w' => ['Category-w/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
