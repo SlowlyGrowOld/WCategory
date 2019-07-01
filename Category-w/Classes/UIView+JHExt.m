@@ -7,6 +7,7 @@
 //
 
 #import "UIView+JHExt.h"
+#import "UIView+JHFrame.h"
 
 @implementation UIView (JHExt)
 
